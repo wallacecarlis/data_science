@@ -19,7 +19,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 **Links:**
 * [Blog](http://wallai.com)
 * [LinkedIn](https://www.linkedin.com/in/wallace-carlis-b3748524/)
-* [Medium](https://www.medium.comhttps://medium.com/@wallacecarlis)
+* [Medium](https://medium.com/@wallacecarlis)
 
 
 ## Projetos:
