@@ -21,4 +21,4 @@ Pós-graduado em Análise de Dados com BI e Big Data, Pós-graduado em Administr
 
 ## Projetos:
 
-* **Análise de dados do AirBnb para a cidade de San Francisco:** https://bitlybr.com/e7nlGKSn
+* **Análise de dados do AirBnb para a cidade de San Francisco:** http://bit.ly/36zVm4V
