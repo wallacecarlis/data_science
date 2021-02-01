@@ -15,12 +15,10 @@ Pós-graduado em Análise de Dados com BI e Big Data, Pós-graduado em Administr
 **Background in:** Python & Machine Learning.
 
 **Links:**
-* [Blog](http://wallai.com)
 * [LinkedIn](https://www.linkedin.com/in/wallace-carlis-b3748524/)
 * [Medium](https://medium.com/@wallacecarlis)
 
 
 ## Projetos:
-Veja os tutoriais publicados no Wall-A.I.:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Análise de dados do AirBnb para a cidade de San Francisco:** https://bit.ly/2L2cMwy
