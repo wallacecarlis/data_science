@@ -19,6 +19,6 @@ Pós-graduado em Análise de Dados com BI e Big Data, Pós-graduado em Administr
 * [Medium](https://medium.com/@wallacecarlis)
 
 
-## Projetos:
+### Projetos:
 
 * **Análise de dados do AirBnb para a cidade de San Francisco:** http://bit.ly/36zVm4V
