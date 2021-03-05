@@ -10,7 +10,7 @@ Portfolio de projetos - Data Science
 # Wallace Carlis
 <sub>*Data Scientist*</sub>
 
-Pós-graduado em Análise de Dados com BI e Big Data, Pós-graduado em Administração e Finanças, graduado em Gestão Pública. Mais de 20 anos de experiência em empresas de grande porte, na área administrativa e vendas, desenvolvendo atividades como negociação empresarial, análise financeira, atuação comercial com foco em projetos, processos e indicadores, desenvolvimento orçamentário e parcerias estratégicas de mercado, relatórios gerenciais, acompanhamento e controle, gerenciamento de equipes e pós-venda positiva. Análise e planejamento estratégico, organizacional e gestão de pessoas, aplicando treinamento a consultores e gerentes de negócios. Extração ,tratamento e análise de dados, geração de relatórios e dashboards, modelo estatístico. Utilização de Power BI, R, Python, My SQL, Postgre SQL e SQL Server.
+Pós-graduado em Análise de Dados com BI e Big Data, Pós-graduado em Administração e Finanças, graduado em Gestão Pública. Mais de 20 anos de experiência em empresas de grande porte, na área administrativa e vendas, desenvolvendo atividades como negociação empresarial, análise financeira, atuação comercial com foco em projetos, processos e indicadores, desenvolvimento orçamentário e parcerias estratégicas de mercado, relatórios gerenciais, acompanhamento e controle, gerenciamento de equipes e pós-venda positiva. Análise e planejamento estratégico, organizacional e gestão de pessoas, aplicando treinamento a consultores e gerentes de negócios. Extração ,tratamento e análise de dados, geração de relatórios e dashboards, modelos estatísticos. Utilização de Power BI, R, Python, My SQL, Postgre SQL e SQL Server.
 
 **Background in:** Python & Machine Learning.
 
