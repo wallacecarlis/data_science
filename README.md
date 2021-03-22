@@ -24,3 +24,4 @@ Pós-graduado em Análise de Dados com BI e Big Data, Pós-graduado em Administr
 * **Análise de dados do AirBnb para a cidade de San Francisco:** http://bit.ly/36zVm4V
 * **Análise de dados da violência no Rio de Janeiro:** http://bit.ly/3bqNSCW
 * **Análise de dados do COVID-19 (Panoramas: Mundo e Brasil):** http://bit.ly/2OCbLQr
+* ** Detecção de fraudes de cartão de crédito com Regressão Logística e Árvore de Decisão:** http://bit.ly/314lgL9
