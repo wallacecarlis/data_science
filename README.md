@@ -27,3 +27,4 @@ Pós-graduado em Análise de Dados com BI e Big Data, Pós-graduado em Administr
 * **Detecção de fraudes de cartão de crédito com Regressão Logística e Árvore de Decisão:** http://bit.ly/314lgL9
 * **Churn Prediction (Telecom) com Regressão Logística, XGBoost, Random Forest e SVM:** https://bit.ly/3tcziXy
 * **Avaliação de Risco de Crédito com Machine Learning (Random Forest):** https://bit.ly/3uEC8VT
+* **Previsão de valor de imóveis em São Paulo com Regressão (Random Forest):** https://bit.ly/3gf6rwd
