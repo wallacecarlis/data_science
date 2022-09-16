@@ -15,7 +15,7 @@ Pós-graduado em Análise de Dados com BI e Big Data, Pós-graduado em Administr
 **Background in:** Python & Machine Learning.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/wallace-carlis-b3748524/)
+* [LinkedIn](https://www.linkedin.com/in/wallacecarlis/)
 * [Medium](https://medium.com/@wallacecarlis)
 
 
