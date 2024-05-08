@@ -10,9 +10,9 @@ Portfolio de projetos - Data Science
 # Wallace Carlis
 <sub>*Ciência de Dados*</sub>
 
-Pós-graduado em Análise de Dados com BI e Big Data, Pós-graduado em Administração e Finanças, graduado em Gestão Pública. Mais de 20 anos de experiência em empresas de grande porte, na área administrativa e comercial com foco em projetos, processos e indicadores, desenvolvimento orçamentário e parcerias estratégicas de mercado, acompanhamento e controle, gerenciamento de equipes e pós-venda positiva. Há 5 anos com análise de negócios, ingestão e monitoramento de resultados em Big Data com ETL, tratamento e análise de dados, geração de relatórios e dashboards, modelos estatísticos, machine learning e ingestão de dados. Utilização das ferramentas Azure Databricks, Azure Storage Explorer, Power BI, Tableau, Python, PySpark, Sas, My SQL, Postgre SQL, SQL Server, Oracle, Hadoop e Alteryx.
+Pós-graduado em Análise de Dados com BI e Big Data, Pós-graduado em Administração e Finanças, graduado em Gestão Pública. Mais de 20 anos de experiência em empresas de grande porte, na área administrativa e comercial com foco em projetos, processos e indicadores, desenvolvimento orçamentário e parcerias estratégicas de mercado, acompanhamento e controle, gerenciamento de equipes e pós-venda positiva. Há 5 anos com análise de negócios,  monitoramento de resultados em Big Data com ETL, tratamento e análise de dados, geração de relatórios e dashboards, criação de algoritmos para processamentos de textos, sistemas de recomendação e modelos estatísticos em machine learning, e consumo de dados em Data Lake e pipeline de dados com as ferramentas Azure Databricks, Azure Storage Account, Power BI, Tableau, Python, Pytorch, Tensor Flow, PySpark, Sas, My SQL, Postgre SQL, SQL Server, Oracle SQL Developer, Oracle Analytics Cloud, MongoDB, Hadoop, e Alteryx.
 
-**Background in:** Python & Machine Learning.
+**Background in:** Python, Machine Learning, Deep Learning, Dataviz.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/wallacecarlis/)
