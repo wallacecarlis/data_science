@@ -23,7 +23,7 @@ Pós-graduado em Análise de Dados com BI e Big Data, Pós-graduado em Administr
 
 * **Análise de dados do AirBnb para a cidade de San Francisco:** https://bit.ly/4bACIt8
 * **Análise de dados da violência no Rio de Janeiro:** https://bit.ly/4aI74bS
-* **Análise de dados do COVID-19 (Panoramas: Mundo e Brasil):** http://bit.ly/2OCbLQr
+* **Análise de dados do COVID-19:** https://bit.ly/3RcKCAL
 * **Detecção de fraudes de cartão de crédito com Regressão Logística e Árvore de Decisão:** http://bit.ly/314lgL9
 * **Churn Prediction (Telecom) com Regressão Logística, XGBoost, Random Forest e SVM:** https://bit.ly/3tcziXy
 * **Avaliação de Risco de Crédito com Machine Learning (Random Forest):** https://bit.ly/3uEC8VT
