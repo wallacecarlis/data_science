@@ -17,6 +17,7 @@ Pós-graduado em Análise de Dados com BI e Big Data, Pós-graduado em Administr
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/wallacecarlis/)
 * [Medium](https://medium.com/@wallacecarlis)
+* [YouTube](https://www.youtube.com/@WallCom-yh9dh)
 
 
 ### Projetos:
