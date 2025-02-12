@@ -31,4 +31,10 @@ Pós-graduado em Análise de Dados com BI e Big Data, Pós-graduado em Administr
 * **Detecção de fraudes de cartão de crédito com Regressão Logística, Random Forest e Árvore de Decisão:** https://bit.ly/4fpDQ5i
 * **Churn Prediction  com Rede Neural, Random Forest e Regressão Logística:** https://bit.ly/4hPRMpB
 * **Avaliação de Risco de Crédito com Machine Learning (Random Forest):** https://bit.ly/3uEC8VT
+* **Time Series - Prophet:**
+* **Regressão Linear - AutoML:**
+* **Fake News - Classifier:**
+* **Fashion MNist - Tensor Flow:**
+* **Fashion MNist - Pytorch:**
+* **Fashion MNist - Skorch:**
 
