@@ -32,6 +32,7 @@ Pós-graduado em Análise de Dados com BI e Big Data, Pós-graduado em Administr
 * **Churn Prediction  com Rede Neural, Random Forest e Regressão Logística:** https://bit.ly/4hPRMpB
 * **Avaliação de Risco de Crédito com XGBoost, SGD e LightGBM:** https://bit.ly/4i62atg
 * **Previsão do Valor de Imóveis com Regressão Linear e Pycaret (AutoML):** https://bit.ly/41WAYrD
+* **Classificação de tipos de Vinhos com Pycaret:** 
 * **Time Series - Prophet:**
 * **Fake News - Classifier:**
 * **Fashion MNist - Tensor Flow:**
