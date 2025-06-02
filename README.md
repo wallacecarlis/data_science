@@ -16,6 +16,7 @@ Pós-graduado em Análise de Dados com BI e Big Data, Pós-graduado em Administr
 
 ### **Links:**
 * [Meu site](https://www.wallacecarlis.com)
+* [Curso de Análise de Dados - Pandas One](https://bit.ly/3ZLwNgR)
 * [Curso de Dataviz - Visualização de Dados com Matplotlib e Seaborn](https://lnkd.in/dn-wP8fK)
 * [Curso de Projeto de Data Science do AirBNB - Udemy](https://bit.ly/3PARFlM)
 * [LinkedIn](https://www.linkedin.com/in/wallacecarlis/)
