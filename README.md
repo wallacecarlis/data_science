@@ -14,6 +14,11 @@ Pós-graduado em Análise de Dados com BI e Big Data, Pós-graduado em Administr
 
 **Background in:** Python, Machine Learning, Deep Learning, Dataviz.
 
+### **Lives:**
+* [Live de Dataviz com Escola Livre de IA e Microsoft Reactor](https://www.youtube.com/watch?v=GXHQp6Tyecw&t=3144s)
+* [Live de Dataviz com Alessandro Trovato](https://www.youtube.com/watch?v=u4tJ7nIuvvY&t=4874s)
+* [Live de Tratamento de dados com Pandas com Alessandro Trovato](https://www.youtube.com/watch?v=3fuXb83wToI&t=2463s)
+
 ### **Links:**
 * [Meu site](https://www.wallacecarlis.com)
 * [Curso de Análise de Dados - Pandas One](https://bit.ly/3ZLwNgR)
