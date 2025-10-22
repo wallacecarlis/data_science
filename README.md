@@ -40,8 +40,5 @@ Pós-graduado em Análise de Dados com BI e Big Data, Pós-graduado em Administr
 * **Previsão do Valor de Imóveis com Regressão Linear e Pycaret (AutoML):** https://bit.ly/41WAYrD
 * **Classificação de tipos de Vinhos com Pycaret:** https://bit.ly/44Ubygi
 * **Previsão de vendas de vinho - Time Series com Prophet:** https://bit.ly/4nMWyY9
-* **Fake News - Classifier:**
-* **Fashion MNist - Tensor Flow:**
-* **Fashion MNist - Pytorch:**
-* **Fashion MNist - Skorch:**
+* **Clustering de Produtos com Kmeans** https://bit.ly/4nbFgCV
 
